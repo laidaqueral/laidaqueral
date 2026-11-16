@@ -5,7 +5,7 @@
 
 Sant Sadurní d'Anoia, Barcelona, Spain
 
-[LinkedIn](https://www.linkedin.com/in/laida-queral-llopart-06b4b6304/) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/laida-queral-llopart-06b4b6304/) · [Email](mailto:laidaqueral@gmail.com)
 
 ### 👋 About me
 
