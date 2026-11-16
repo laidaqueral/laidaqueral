@@ -4,8 +4,6 @@
 
 Sant Sadurní d'Anoia, Barcelona, Spain
 
-[LinkedIn](YOUR_LINKEDIN) · [CV](YOUR_CV) · [Email](YOUR_EMAIL)
-
 ### 👋 About me
 
 I'm an undergraduate Artificial Intelligence student at Universitat Politècnica de Catalunya, interested in developing intelligent systems and applying AI techniques to real-world problems.
@@ -45,5 +43,4 @@ Artificial Intelligence · Machine Learning · Intelligent Systems · Data Scien
 
 ### 📫 Contact
 
-- **LinkedIn:** [Your LinkedIn]
-- **Email:** [Your professional email]
+[LinkedIn](https://www.linkedin.com/in/laida-queral-llopart-06b4b6304/) · [Email](laidaqueral@gmail.com)
