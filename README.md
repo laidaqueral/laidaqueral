@@ -1,37 +1,40 @@
+
 # Laida Queral Llopart
 
-**Artificial Intelligence Undergraduate Student**
+**Artificial Intelligence Undergraduate Student · Intelligent Systems & Machine Learning**
 
 Sant Sadurní d'Anoia, Barcelona, Spain
 
+[LinkedIn](https://www.linkedin.com/in/laida-queral-llopart-06b4b6304/) · [Email](mailto:YOUR_EMAIL)
+
 ### 👋 About me
 
-I'm an undergraduate Artificial Intelligence student at Universitat Politècnica de Catalunya, interested in developing intelligent systems and applying AI techniques to real-world problems.
+I'm an Artificial Intelligence undergraduate student at Universitat Politècnica de Catalunya (UPC), passionate about developing intelligent systems and exploring how AI techniques can be applied to real-world problems.
 
-Throughout my degree, I've worked on academic projects involving machine learning, intelligent decision-making systems, optimization and software development.
+Throughout my degree, I've developed academic projects across different areas of artificial intelligence, including machine learning, intelligent decision-making, robotics and mathematical optimization.
 
-I'm particularly interested in exploring how artificial intelligence can be used to solve complex problems, combining theoretical foundations with practical implementation.
+I enjoy tackling technical challenges, combining theoretical knowledge with practical implementation, and exploring different approaches to building effective solutions.
 
 ### 🎓 Education
 
-- **BSc in Artificial Intelligence**, Universitat Politècnica de Catalunya, 2023–Present.
+- **BSc in Artificial Intelligence**, Universitat Politècnica de Catalunya (UPC), 2023–Present.
 
 ### 🚀 Featured projects
 
-| Project | Description | Links |
+| **Project** | **Description** | **Links** |
 |---|---|---|
 | **Intelligent Menu Planner** | Hybrid Case-Based Reasoning system for personalized menu generation, combining knowledge representation, similarity-based retrieval and AI-powered ingredient adaptation. | [Code](https://github.com/laidaqueral/CBR_Intelligent_Menu_Planner) |
 | **Bot-Ticelli** | Autonomous drawing robot developed with ROS and TurtleBot3 Waffle. Integrates SLAM, autonomous navigation, computer vision and trajectory planning to detect geometric shapes and reproduce them physically using the robot's movement. | [Code](https://github.com/laidaqueral/bot-ticelli_pfinal_rm/tree/main/bot-ticelli) |
 | **Sensor Network Optimization – Barcelona's Eixample** | Integer programming project focused on optimizing vehicle-flow detection through strategic sensor placement in Barcelona's Eixample district. Developed optimization models using AMPL and Gurobi, considering budget, coverage and distance constraints. | [Code](https://github.com/JaumeMiL/sensors_eixample_ampl) |
 
-
 ### 🛠 Technical Skills
 
 - **Programming Languages:** Python, R, MATLAB, SQL, C++.
 - **Artificial Intelligence:** Machine Learning, Case-Based Reasoning, Intelligent Decision Support Systems.
-- **Data Science:** Data Processing, Data Analysis, Model Evaluation.
+- **Data Analysis & Optimization:** Data Processing, Data Analysis, Mathematical Optimization, Integer Programming.
+- **Robotics & Computer Vision:** ROS, OpenCV, Autonomous Navigation.
 - **Development Tools:** Git, GitHub, Linux, VS Code.
-- **Robotics & engineering:** ROS 2, REST APIs, distributed systems
+- **Other Technologies:** AMPL, Gurobi, REST APIs.
 
 ### 🌍 Languages
 
@@ -39,8 +42,9 @@ Catalan and Spanish (Native) · English (C1) · German (Basic)
 
 ### 🎯 Interests
 
-Artificial Intelligence · Machine Learning · Intelligent Systems · Data Science · Technology Innovation
+Artificial Intelligence · Machine Learning · Intelligent Systems · Robotics · Data Science
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/laida-queral-llopart-06b4b6304/) · [Email](laidaqueral@gmail.com)
+- **LinkedIn:** [laida-queral-llopart](https://www.linkedin.com/in/laida-queral-llopart-06b4b6304/)
+- **Email:** [YOUR_EMAIL](mailto:laidaqueral@gmail.com)
